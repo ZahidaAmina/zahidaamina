@@ -16,7 +16,7 @@
 
 ## About Me
 
-I'm a detail-oriented **BS Computer Science** student (8th semester) at the Virtual University of Pakistan, currently working as a **Full Stack Web Developer Intern** at Virtual University Software House, where I build real-world web applications using **PHP, Laravel, and Tailwind CSS**.
+I'm a detail-oriented **BS Computer Science** graduated at the Virtual University of Pakistan, currently working as a **Full Stack Web Developer Intern** at Virtual University Software House, where I build real-world web applications using **PHP, Laravel, and Tailwind CSS**.
 
 I bring together a background in graphic design with hands-on programming, database, and problem-solving skills. I'm looking for a software engineering role where I can keep building collaborative, real-world solutions.
 
@@ -25,10 +25,11 @@ I bring together a background in graphic design with hands-on programming, datab
 ## Experience
 
 **Full Stack Web Developer Intern** — Virtual University Software House
-*October 2025 – Present*
+*October 2025 – Sep 2026*
 - Building and maintaining responsive web applications with PHP, Laravel, and Tailwind CSS
 - Contributing to **LensLocation**, a photography location rental marketplace connecting location owners with customers booking spaces for photoshoots
 - Collaborating with a development team using Git and GitHub for version control
+- lenslocation.live 
 
 <br>
 
@@ -58,8 +59,8 @@ I bring together a background in graphic design with hands-on programming, datab
 
 ## Education
 
-**BS Computer Science** — Virtual University of Pakistan *(2023 – Present)*
-8th Semester · Coursework: OOP, Data Structures & Algorithms, DBMS, Assembly Language, Data Communication, Web Technologies
+**BS Computer Science** — Virtual University of Pakistan *(2023 – 2026)*
+Graduated · Coursework: OOP, Data Structures & Algorithms, DBMS, Assembly Language, Data Communication, Web Technologies
 
 **FSc Pre-Engineering** — Govt. Post Graduate Degree College, Kasur *(2020 – 2022)*
 
