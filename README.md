@@ -34,12 +34,12 @@ I bring together a background in graphic design with hands-on programming, datab
 
 ## Skills & Tools
 
-**Languages:** `PHP` `C++` `SQL` `HTML` `CSS` `JavaScript (basic)`
-**Frameworks:** `Laravel` `Tailwind CSS`
-**Databases:** `MySQL` `SQL Server Management Studio (SSMS)`
-**Tools & IDEs:** `Visual Studio` `Dev C++` `DOSBox` `Cisco Packet Tracer`
-**Design:** `Adobe Illustrator` `Adobe Photoshop` `Adobe Premiere Pro` `Canva` `Figma`
-**Version Control:** `Git` `GitHub`
+**Languages:** `PHP` `C++` `SQL` `HTML` `CSS` `JavaScript (basic)` <br>
+**Frameworks:** `Laravel` `Tailwind CSS`<br>
+**Databases:** `MySQL` `SQL Server Management Studio (SSMS)`<br>
+**Tools & IDEs:** `Visual Studio` `Dev C++` `DOSBox` `Cisco Packet Tracer`<br>
+**Design:** `Adobe Illustrator` `Adobe Photoshop` `Adobe Premiere Pro` `Canva` `Figma`<br>
+**Version Control:** `Git` `GitHub`<br>
 **Core Competencies:** OOP · Database Design & Management · Problem Solving · UI/UX Prototyping
 
 <br>
