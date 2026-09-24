@@ -29,7 +29,6 @@ I bring together a background in graphic design with hands-on programming, datab
 - Building and maintaining responsive web applications with PHP, Laravel, and Tailwind CSS
 - Contributing to **LensLocation**, a photography location rental marketplace connecting location owners with customers booking spaces for photoshoots
 - Collaborating with a development team using Git and GitHub for version control
-- lenslocation.live 
 
 <br>
 
@@ -60,7 +59,9 @@ I bring together a background in graphic design with hands-on programming, datab
 ## Education
 
 **BS Computer Science** — Virtual University of Pakistan *(2023 – 2026)*
-Graduated · Coursework: OOP, Data Structures & Algorithms, DBMS, Assembly Language, Data Communication, Web Technologies
+Graduated 
+<br>
+Coursework: OOP, Data Structures & Algorithms, DBMS, Assembly Language, Data Communication, Web Technologies
 
 **FSc Pre-Engineering** — Govt. Post Graduate Degree College, Kasur *(2020 – 2022)*
 
